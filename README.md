@@ -19,9 +19,11 @@ This application is designed to enhance users' experiences by providing tailored
 	[CityID] [int] NOT NULL,
  CONSTRAINT [PK_Event] PRIMARY KEY CLUSTERED 
 to match the data you provided above. could you insert mock data for this. for eventname i want it to be either 'sporting event', 'amusement park', 'skiing trip'
+####
 -CREATE TABLE [dbo].[City](
 	[CityID] [int] NOT NULL,
 	[CityName] [nvarchar](50) NULL,
 	[AvgTemp] [nvarchar](50) NULL,
  CONSTRAINT [PK_City] PRIMARY KEY CLUSTERED  can you add this data into this
+ ####
  -For the following prompt I give you, what would be the best way to set up a ERD for this said promt. It will be a database that keeps a CITYID , city name, average city tempature, along with that it will have a Events data that will keep track of the event ID, the event name, the event price. 
