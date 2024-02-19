@@ -10,6 +10,11 @@ This application is designed to enhance users' experiences by providing tailored
 ### 2. Weather-Based Recommendations
 - See all the cities that currently have a temperature above 70 degrees and the events you could attend.
 
+### 3. See the City With the Most Events
+- See which cities have the most events going on.
+
+### 4. See Cost Friendly Events taking place.
+- See the events with the lowest prices. 
 
 #### References 
 -CREATE TABLE [dbo].[Event](
