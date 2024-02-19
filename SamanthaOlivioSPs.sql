@@ -11,6 +11,8 @@ BEGIN
     ORDER BY EventCount DESC;
 END;
 GO
+EXEC GetCityWithHighestEventCount;
+GO
 
 CREATE PROCEDURE FindCheapestEvents
 AS
@@ -19,4 +21,6 @@ BEGIN
     FROM Event
     WHERE EventPrice = (SELECT MIN(EventPrice) FROM Event);
 END;
+GO
+EXEC FindCheapestEvents;
 GO
