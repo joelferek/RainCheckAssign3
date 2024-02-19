@@ -33,4 +33,4 @@ to match the data you provided above. could you insert mock data for this. for e
  ####
  -For the following prompt I give you, what would be the best way to set up a ERD for this said promt. It will be a database that keeps a CITYID , city name, average city tempature, along with that it will have a Events data that will keep track of the event ID, the event name, the event price. 
 ####
-- In SQL what do you put after "select" to select the highest count of something
+ -In SQL what do you put after "select" to select the highest count of something
