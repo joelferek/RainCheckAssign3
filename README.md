@@ -14,7 +14,13 @@ This application is designed to enhance users' experiences by providing tailored
 - See which cities have the most events going on.
 
 ### 4. See Cost Friendly Events taking place.
-- See the events with the lowest prices. 
+- See the events with the lowest prices.
+
+### 5. See list of events of a specified type.
+- Only show events of a certain type like amusement park or sporting event, based on user input.
+
+### 6. Orgenize events list based on average temp.
+- List info of all events organized by the average temperature of the city they're in.
 
 #### References : CHAT GPT PROMPTS
 -CREATE TABLE [dbo].[Event](
