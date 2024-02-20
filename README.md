@@ -16,10 +16,10 @@ This application is designed to enhance users' experiences by providing tailored
 ### 4. See Cost Friendly Events taking place.
 - See the events with the lowest prices.
 
-### 5. See list of events of a specified type.
+### 5. See List of Events of a Specified Type.
 - Only show events of a certain type like amusement park or sporting event, based on user input.
 
-### 6. Organize events list based on average temp.
+### 6. Organize Events List Based on Average Temp.
 - List info of all events organized by the average temperature of the city that they're in.
 
 #### References : CHAT GPT PROMPTS
